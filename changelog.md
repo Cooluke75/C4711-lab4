@@ -7,6 +7,11 @@ Team membership:
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## [0.0.5] - 2018-02-01 - Roger Zhang
+### Modified
+ - revised and fixed some issues for charlie
+ - updated changelog
+
 ## [0.0.4] - 2018-02-01 - Roger Zhang
 ### Added
  - force php class with index to invoke show method with key '4'
