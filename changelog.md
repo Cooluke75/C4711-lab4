@@ -15,6 +15,13 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 ### Updated
  - changelog updated
 
+## [0.0.6] - 2018-02-01 - Alex Xia
+### Added
+- Implemented Echo controller
+
+### Changed
+- config.php to now point echo menu item to echo page instead of #
+
 ## [0.0.5] - 2018-02-01 - Roger Zhang
 ### Modified
  - revised and fixed some issues for charlie
