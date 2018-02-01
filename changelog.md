@@ -7,12 +7,27 @@ Team membership:
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## [0.0.5] - 2018-02-01 - Alex Xia
+
+## [0.0.6] - 2018-02-01 - Alex Xia
 ### Added
 - Implemented Echo controller
 
 ### Changed
 - config.php to now point echo menu item to echo page instead of #
+
+## [0.0.5] - 2018-02-01 - Roger Zhang
+### Modified
+ - revised and fixed some issues for charlie
+ - updated changelog
+
+## [0.0.4] - 2018-02-01 - Roger Zhang
+### Added
+ - force php class with index to invoke show method with key '4'
+ - delta folder
+
+### Changed
+ - config.php to point delta folder force.php
+ - changelog updated
 
 ## [0.0.3] - 2018-02-01 - Alex Xia
 ### Added
@@ -21,7 +36,7 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 ### Changed
 - config.php to now point charlie menu item to charlie page instead of #
 
-## [0.0.2] - 2018-02-01
+## [0.0.2] - 2018-02-01 - Roger Zhang
 ### Added
  - Created able to invoke the method with key '1'.
  - updated changedlog

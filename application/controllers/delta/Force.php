@@ -12,15 +12,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  *
  * @author zhang
  */
-class Charlie extends Application{
+class Force extends Application{
     //put your code here
     function __construct()
     {
         parent::__construct();
     }
     
-    //Invoke show with key '3'
-    public function brown() {
-        $this->show(3);
+    //Invoke show with key '4'
+    public function index() {
+        $this->show(4);
     }
 }
