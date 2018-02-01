@@ -54,3 +54,4 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 //remaps the request to tango controller
 $route['foxtrot'] = 'tango';
+$route['i/.*'] = 'golf';
