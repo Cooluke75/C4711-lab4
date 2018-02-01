@@ -7,6 +7,14 @@ Team membership:
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## [0.0.7] - 2018-02-01 - Roger Zhang
+### Added
+ - Foxtrot remap which will be handled by tango
+ - added tango php class
+
+### Updated
+ - changelog updated
+
 ## [0.0.5] - 2018-02-01 - Roger Zhang
 ### Modified
  - revised and fixed some issues for charlie
