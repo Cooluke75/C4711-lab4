@@ -7,6 +7,15 @@ Team membership:
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## [0.1.0] - 2018-02-01 - Alex Xia
+### Added
+ - added india.php
+ - added logo
+
+### Updated
+ - config to redirect to india
+
+
 ## [0.0.9] - 2018-02-01 - Roger Zhang
 ### Added
  - remaps hotel to golf php class using functions
