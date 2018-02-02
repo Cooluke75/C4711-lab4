@@ -8,6 +8,15 @@ Team conventions: Allman notation, markdown for changelog
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 
+## [0.1.2] - 2018-02-02 Luke Lee
+### Added
+ - none
+
+### Updated
+ - config.php: mapped kilo to the show method with key 2
+ - routes.php: added route to remap show requests to Welcome::show()
+ - changelog updated
+
 ## [0.1.1] - 2018-02-01 Roger Zhang
 ### Added
  - juliet php class added
