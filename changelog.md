@@ -7,6 +7,27 @@ Team membership:
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## [0.0.9] - 2018-02-01 - Roger Zhang
+### Added
+ - remaps hotel to golf php class using functions
+
+### Updated
+ - changelog updated
+
+## [0.0.8] - 2018-02-01 - Roger Zhang
+### Added
+ - Golf php class inherited the method with the key '6'
+
+### Updated
+ - changelog updated
+
+## [0.0.7] - 2018-02-01 - Roger Zhang
+### Added
+ - Foxtrot remap which will be handled by tango
+ - added tango php class
+
+### Updated
+ - changelog updated
 
 ## [0.0.6] - 2018-02-01 - Alex Xia
 ### Added

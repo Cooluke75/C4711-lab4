@@ -52,3 +52,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
+//remaps the request to tango controller
+$route['foxtrot'] = 'tango';
+//remaps using regex to golf php class
+$route['i/.*'] = 'golf';
+//remaps to a function call that returns golf php class;
+$route['bananas/rule'] = function() {
+    return 'golf';
+};
