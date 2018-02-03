@@ -8,19 +8,25 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  */
 
 /**
- * Description of Tango
- * Note. Foxtrot also maps to here.
+ * Description of Juliet
+ *
  * @author zhang
  */
-class Tango extends Application {
-    //Constructor
+class Juliet extends CI_Controller{
+    
+    // constructor
     function __construct()
     {
         parent::__construct();
     }
     
-    //Invoke show with key '3'
+    /* Retrieves data from a model then encoded it properly
+       Returns json record instead of html page
+       You can save the json file on browser
+     */
     public function index() {
-        $this->show(5);
+        $record = $this->quotes->get(1);
+        header("Content-type: application/json");
+        echo json_encode($record);
     }
 }

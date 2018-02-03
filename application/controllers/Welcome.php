@@ -1,6 +1,10 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+/**
+ * Description of Welcome
+ *
+ * @author lee
+ */
 class Welcome extends Application
 {
 

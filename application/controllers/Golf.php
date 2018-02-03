@@ -6,7 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  */
 
 /**
- * Description of Able
+ * Description of Golf
  *
  * @author zhang
  */

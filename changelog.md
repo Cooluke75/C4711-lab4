@@ -7,6 +7,28 @@ Team membership:
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## [0.1.3] - 2018-02-02 Alex Xia
+### Updated
+ - fixed comments on controller .phps. some of the names were mismatched with the files
+ - changelog updated
+
+## [0.1.2] - 2018-02-02 Luke Lee
+### Added
+ - none
+
+### Updated
+ - config.php: mapped kilo to the show method with key 2
+ - routes.php: added route to remap show requests to Welcome::show()
+ - changelog updated
+
+## [0.1.1] - 2018-02-01 Roger Zhang
+### Added
+ - juliet php class added
+ - now instead of passing an html file, json data is retrieved and can be saved
+
+### Updated
+ - changelog updated
+
 ## [0.1.0] - 2018-02-01 - Alex Xia
 ### Added
  - added india.php
@@ -14,7 +36,6 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 ### Updated
  - config to redirect to india
-
 
 ## [0.0.9] - 2018-02-01 - Roger Zhang
 ### Added

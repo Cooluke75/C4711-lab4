@@ -8,18 +8,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  */
 
 /**
- * Description of Force
+ * Description of Charlie
  *
  * @author zhang
  */
 class Charlie extends Application{
-    //put your code here
+    //Constructor
     function __construct()
     {
         parent::__construct();
     }
     
     //Invoke show with key '3'
+    //equivalent to index func
+    //but wont be called by default
     public function brown() {
         $this->show(3);
     }
