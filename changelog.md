@@ -7,6 +7,11 @@ Team membership:
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## [0.1.2] - 2018-02-02 Luke Lee
+### Updated
+ - fixed comments on controller .phps. some of the names were mismatched with the files
+ - changelog updated
+
 
 ## [0.1.2] - 2018-02-02 Luke Lee
 ### Added

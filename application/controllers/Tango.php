@@ -9,11 +9,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
  * Description of Tango
- *
+ * Note. Foxtrot also maps to here.
  * @author zhang
  */
 class Tango extends Application {
-    //put your code here
+    //Constructor
     function __construct()
     {
         parent::__construct();

@@ -2,7 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
-* Description of India, a third world country.
+* Description of India : a country in Asia.
 *
 * @author alex
 */
@@ -18,7 +18,7 @@ class India extends CI_Controller{
    	as png for displaying
     */
    public function index() {
-       // relative path of a png file
+       // relative path of a png file, randomly selected from my laptop
        $source = '../data/logo.png';
 
        // set the mime type for that image (jpeg, png, etc)
